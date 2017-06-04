@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Larry/Desktop/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/Larry/Desktop/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Larry/Downloads/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/Larry/Downloads/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v16/notification_template_custom_big.xml"
+    }
+]
